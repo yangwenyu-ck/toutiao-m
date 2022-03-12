@@ -1,15 +1,13 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
-  
+  <div>问答</div>
 </template>
 
 <script>
 export default {
+
 }
 </script>
 
-<style lang="less">
+<style>
 
 </style>
